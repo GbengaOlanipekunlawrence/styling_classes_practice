@@ -1,0 +1,61 @@
+p.learn {
+    
+    font-style: oblique;
+    color: rgb(255, 0, 119);
+    text-align: justify;
+    
+}
+p.practice{
+
+    color: rgb(51, 112, 161);
+    font-style: italic;
+    font-weight: 300;
+    text-rendering: auto;
+}
+.practice1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    
+}
+
+.practice2 {
+
+    font-size: small;
+    color: chartreuse;
+
+    font-family: fantasy;
+text-align-last: auto;
+}
+.red{
+    color: crimson;
+}
+.yellow {
+    color: greenyellow;
+}
+
+.blue {
+    color: mediumblue;
+}
+img {
+    float: left;  
+    height: 80px; 
+    width: 80px;
+    
+}
+.sidebar{
+     width: 50%;
+    float: left;
+}
+
+.column{
+    width: 30%;
+    float: right;
+}
+.important {
+    color: rgba(0, 132, 255, 0.747);
+}
+.important1{
+
+    color: saddlebrown;
+}
